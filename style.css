@@ -1,0 +1,15 @@
+.ceva{
+    width: 300px;
+    height: 500px;
+}
+.rase{
+    width: 300px;
+}
+
+.imag{
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    width: 400px;
+    height: 500px;
+}
